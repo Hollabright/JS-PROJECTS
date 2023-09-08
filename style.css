@@ -1,0 +1,11 @@
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+#rolldice {
+    display: block;
+    align-items: center;
+    align-content: center;
+}
